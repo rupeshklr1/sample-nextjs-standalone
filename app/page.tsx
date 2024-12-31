@@ -8,9 +8,7 @@ export default function Home() {
                 <h1>Greetings from a sample Next.js app!</h1>
                 
                         <span>Click to deploy:</span>
-                    </div>
                     <span className="block">It will be up in less than 2 minutes!</span>
-                </h2>
         rupesh---->>>pageoooo
             </div>
         </main>
